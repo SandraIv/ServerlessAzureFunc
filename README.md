@@ -1,0 +1,2 @@
+# ServerlessAzureFunc
+Serverless Azure Function
